@@ -17,6 +17,14 @@
 - [Ver código y demo](https://github.com/florenciaromero4/reloj-nordico)
 
 ---
+## ✅ Lista de Tareas
+
+- Una app simple para anotar, marcar y borrar tareas.
+- Hecha con HTML, CSS y JavaScript.
+- Ideal para organizar tu día con estilo oscuro y funcional.
+- [Ver código y demo](https://github.com/florenciaromero4/lista-de-tareas)
+
+---
 
 ¡Y esto es solo el principio!  
 Estoy aprendiendo y subiendo más proyectos todos los días.
