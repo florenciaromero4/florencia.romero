@@ -1,4 +1,4 @@
-¡Hola! Soy Flor, estudiante de programación y acá te muestro algunos de mis proyectos más copados.
+Hola! Soy Flor, estudiante de programación y acá te muestro algunos de mis proyectos más copados.
 
 ---
 
@@ -26,8 +26,40 @@
 - [Ver código](https://github.com/florenciaromero4/lista-de-tareas)
 - [🔗 Ver demo en vivo](https://florenciaromero4.github.io/lista-de-tareas/)
 ---
+## ✅ Primer página
 
-¡Y esto es solo el principio!  
+Este proyecto es una página web simple desarrollada con HTML, CSS y JavaScript puro.
+El objetivo es practicar la separación de responsabilidades entre estructura, estilos e interactividad.
+
+##  Funcionalidad
+
+- Muestra un título y un texto inicial
+- Incluye un botón
+- Al hacer clic en el botón, el texto cambia dinámicamente
+- [Ver código](https://github.com/florenciaromero4/primer-pagina)
+- [🔗 Ver demo en vivo](https://florenciaromero4.github.io/primer-pagina/)
+
+Proyecto usado como estudiante.
+---
+✅ Saludos
+
+Este proyecto es una página web interactiva que permite al usuario ingresar su nombre y recibir un saludo dinámico.
+Además, el mensaje cambia de color según la cantidad de interacciones realizadas.
+
+## 🧩 Funcionalidad
+
+- Campo de texto para ingresar el nombre
+- Botón para generar el saludo
+- Validación del input
+- Contador de saludos
+- Cambio de color del mensaje según la interacción
+- [Ver código](https://github.com/florenciaromero4/)
+- [🔗 Ver demo en vivo]()
+  
+Proyecto para reforzar lo aprendido.
+---
+
+Y esto es solo el principio!  
 Estoy aprendiendo y subiendo más proyectos todos los días.
 
 ---
