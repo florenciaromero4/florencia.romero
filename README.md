@@ -46,14 +46,14 @@ Proyecto usado como estudiante.
 Este proyecto es una página web interactiva que permite al usuario ingresar su nombre y recibir un saludo dinámico.
 Además, el mensaje cambia de color según la cantidad de interacciones realizadas.
 
-## 🧩 Funcionalidad
+## Funcionalidad
 
 - Campo de texto para ingresar el nombre
 - Botón para generar el saludo
 - Validación del input
 - Contador de saludos
 - Cambio de color del mensaje según la interacción
-- [Ver código](https://github.com/florenciaromero4/saludos))
+- [Ver código](https://github.com/florenciaromero4/saludos)
 - [🔗 Ver demo en vivo](https://florenciaromero4.github.io/saludos/)
   
 Proyecto para reforzar lo aprendido.
