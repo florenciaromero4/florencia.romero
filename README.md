@@ -53,8 +53,8 @@ Además, el mensaje cambia de color según la cantidad de interacciones realizad
 - Validación del input
 - Contador de saludos
 - Cambio de color del mensaje según la interacción
-- [Ver código](https://github.com/florenciaromero4/)
-- [🔗 Ver demo en vivo]()
+- [Ver código](https://github.com/florenciaromero4/saludos))
+- [🔗 Ver demo en vivo](https://florenciaromero4.github.io/saludos/)
   
 Proyecto para reforzar lo aprendido.
 ---
