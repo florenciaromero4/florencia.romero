@@ -118,6 +118,37 @@ Forma parte del proceso de aprendizaje en desarrollo frontend, mostrando una evo
 
 ---
 
+## ✅ Consultorio médico 
+
+## Funcionalidades
+
+- Registro de usuario
+- Login con validación básica
+- Simulación de sesión activa
+- Protección de rutas básicas (redirect si no hay sesión)
+- Visualización de datos del usuario
+- Logout
+- [Ver código](https://github.com/florenciaromero4/consultorio)
+- [🔗 Ver demo en vivo](https://florenciaromero4.github.io/consultorio/)
+
+---
+## ✅ Spa 
+
+## Funcionalidades
+
+- Registro de usuario
+- Login con validación básica
+- Simulación de sesión
+- Protección de páginas sin sesión activa
+- Navegación entre vistas
+- Perfil de usuario
+- Interfaz con imágenes de fondo
+- Diseño responsive básico
+- [Ver código](https://github.com/florenciaromero4/spa)
+- [🔗 Ver demo en vivo](https://florenciaromero4.github.io/spa/)
+
+---
+
 Y esto es solo el principio!  
 Estoy aprendiendo y subiendo más proyectos todos los días.
 
