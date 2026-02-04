@@ -148,7 +148,45 @@ Forma parte del proceso de aprendizaje en desarrollo frontend, mostrando una evo
 - [🔗 Ver demo en vivo](https://florenciaromero4.github.io/spa/)
 
 ---
+## ✅ Gym 
 
+## Funcionalidades
+
+- Página de inicio de sesión (simulada)
+- Página principal con secciones del gimnasio
+- Página de perfil del usuario
+- Uso de imágenes de fondo para mejorar el diseño
+- Estilos modernos con CSS (sombras, hover, layout)
+- Navegación entre páginas
+- [Ver código](https://github.com/florenciaromero4/gym)
+- [🔗 Ver demo en vivo](https://florenciaromero4.github.io/gym/)
+
+---
+
+## ✅ Librería 
+
+Aplicación web de una librería online desarrollada con HTML, CSS y JavaScript, que incluye un catálogo de libros y un carrito de compras funcional.
+El proyecto está pensado para mostrar un avance en lógica JavaScript y diseño visual moderno, sin usar frameworks.
+
+- [Ver código](https://github.com/florenciaromero4/libreria-)
+- [🔗 Ver demo en vivo](https://florenciaromero4.github.io/libreria-/)
+
+---
+
+## ✅ Veterinaria
+
+## Funcionalidades
+- Navegación entre páginas
+- Servicios con disciplinas
+- Carrito de compras
+- Persistencia con localStorage
+- Diseño responsive
+- Imágenes de fondo
+- Botones modernos
+- [Ver código](https://github.com/florenciaromero4/veterinaria)
+- [🔗 Ver demo en vivo](https://florenciaromero4.github.io/veterinaria/)
+  
+---
 Y esto es solo el principio!  
 Estoy aprendiendo y subiendo más proyectos todos los días.
 
